@@ -53,20 +53,11 @@ Session.vim
 # Do not ignore README
 !README.md
 
-# Plugin auto-generated files
-/Plugins/MultiplayerSessions/Binaries/**
-/Plugins/MultiplayerSessions/Intermediate/**
-!/Plugins/MultiplayerSessions/Source/**
-
-# Maps
-/Content/Maps/**
+# Folders to ignore
 /Content/__ExternalActors__/**
 /Content/__ExternalObjects__/**
-
-# Maps
-/Content/Characters/Mannequin**
-/Content/ThirdPerson/**
-/Content/LevelPrototyping/**
-
-# Assets
 /Content/Assets/**
+/Content/Collections/**
+/Content/Developers/**
+/Content/Maps/**
+/Content/Polar/**
